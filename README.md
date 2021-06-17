@@ -4,6 +4,7 @@ The setup was tested with python 3.6, tensorflow 2.x version. Anaconda python di
 
 
 Datasets:
+
 The Sigma Dolphin dataset was used for the baseline model Seq2Seq with teacher forcing only. Whereas, the Seq2Seq model with attention mechanism and the transformer model uses MaWPs dataset and Dolphin 18K dataset. Links for these datasets are provided in the references.
 
 
