@@ -13,6 +13,6 @@ Models:
 
 References:
 https://www.microsoft.com/en-us/research/project/sigmadolphin-2/
-GitHub - RahulSharmaNITT/MathWordProblem: Question Generator for math word problem.
+https://github.com/RahulSharmaNITT/MathWordProblem
 https://github.com/tensorflow/nmt
 
